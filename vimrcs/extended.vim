@@ -27,9 +27,10 @@ set guioptions-=R
 set guioptions-=l
 set guioptions-=L
 
-" Colorscheme
-set background=dark
-colorscheme solarized
+" Colorscheme 
+" It is better to set this in my_configs.vim
+" set background=dark
+" colorscheme solarized
 
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
